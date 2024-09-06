@@ -101,47 +101,63 @@ This mechanism aims to create a free, open, and market-driven sticker trading ec
 
 ### 5.4 🔄 User Operation Flow
 
-1. **Account Creation and Login**
-   - Users log in to the platform using their LINE account via LINE NEXT's SDK
-   - KAIA Wallet is automatically created on first login
+# 🎁 LINE Sticker Gift: KAIA wave Proposal
 
-2. **Acquiring GIFT Tokens**
-   - New users receive GIFT tokens as a welcome airdrop
-   - Users can obtain more GIFT by completing tasks or direct purchase
+[前面的部分保持不變，從用戶體驗部分開始更新]
 
-3. **Browsing and Creating Wishes**
-   - Users can browse existing sticker wishes
-   - Create new wishes, describing desired sticker characteristics
+## 5. 👥 User Experience
 
-4. **Setting Wish Amount**
-   - Users freely decide the amount of GIFT to invest (minimum 1,000 GIFT)
-   - Confirm and submit the wish
+### 5.1 🌠 Sticker Wishlist System
+- Users can create wishes for desired stickers using GIFT tokens
+- Community-driven sticker wish fulfillment mechanism
 
-5. **Tracking Wish Status**
-   - View personal wish list and status
-   - Follow other users' wishes
+### 5.2 🔄 Sticker Creation Incentive Mechanism
+- Use GIFT tokens to incentivize sticker creators to fulfill user wishes
+- Secure, KAIA blockchain-based reward distribution
 
-6. **Sticker Transaction Discussion**
-   - Sticker providers and wishers discuss transaction details in platform-provided chat rooms
+### 5.3 🔗 Integration with LINE
+- Seamless access to LINE sticker library
+- Easy sharing of wishes and newly acquired stickers in LINE chats
 
-7. **Sticker Exchange Confirmation**
-   - Users receiving stickers can confirm receipt in one of two places:
-     a) On the dapp platform
-     b) In the LINE official account chat room
+### 5.4 🔄 User Operation Flow
 
-8. **Smart Contract Execution**
-   - Regardless of the confirmation method, once receipt is confirmed, the smart contract automatically transfers GIFT tokens to the sticker provider
+Our platform supports two primary user roles: Wishers and Givers. Each role has a distinct operational flow:
 
-9. **Token Usage Options**
-   - Users owning GIFT tokens can choose to:
-     a) Exchange for KAIA coins
-     b) Participate in lucky draws to win KAIA coins
+#### Wisher Flow:
 
-10. **Using and Sharing New Stickers**
-    - Users use newly acquired stickers in LINE chats
-    - Can recommend liked stickers or wishes to other users
+1. **Platform Login**: User logs into the platform
+2. **Acquire GIFT Tokens**: Obtain GIFT tokens through various means
+3. **Create Sticker Wish**: Describe desired sticker and set GIFT amount
+4. **GIFT Payment**: Pay GIFT tokens to smart contract
+5. **Await Sticker**: Wait for a Giver to fulfill the wish
+6. **Receive Sticker**: Get the desired sticker
+7. **Confirm Reception**: Confirm receipt via dapp or official account chat
+8. **Use New Sticker**: Enjoy and use the new sticker
 
-The entire process is designed to provide an intuitive, seamless user experience, encouraging active participation and community interaction while ensuring GIFT token circulation and value realization in the ecosystem. This flow supports direct transactions between users, flexible and secure confirmation mechanisms, and diverse token usage options. By offering two confirmation methods via dapp and LINE official account, the platform further enhances the convenience and flexibility of the user experience.
+#### Giver Flow:
+
+1. **Platform Login**: User logs into the platform
+2. **Browse Wishes**: Explore the list of sticker wishes
+3. **Select Wish**: Choose a wish to fulfill
+4. **Discuss with Wisher**: Communicate about the sticker details
+5. **Provide Sticker**: Send the requested sticker to the Wisher
+6. **Await Confirmation**: Wait for the Wisher to confirm receipt
+7. **Receive GIFT Tokens**: Get GIFT tokens from the smart contract
+8. **Token Usage**: Choose to either exchange GIFT for KAIA or participate in KAIA lucky draw
+
+This dual-flow system ensures a smooth and intuitive experience for both Wishers and Givers, facilitating efficient sticker exchanges within the KAIA ecosystem.
+
+## 6. 🛠️ Technical Specifications
+
+[This section remains largely unchanged, but we can add a note about supporting dual user roles]
+
+### 6.2 🖥️ Frontend Development
+- **Framework**: React.js
+- **Integration**: Seamless integration with LINE platform using LINE NEXT's SDK
+- **Development Environment**: Hardhat for testing and deployment
+- **User Interface**: Supports distinct interfaces for Wisher and Giver roles
+
+[Rest of the document remains unchanged]
 
 ## 6. 🛠️ Technical Specifications
 
