@@ -57,15 +57,11 @@ LINE Sticker Gift is an innovative decentralized application (Dapp) designed to 
 ### 4.5 🔄 Token Exchange Mechanism
 - Users can exchange GIFT for KAIA and vice versa through the platform
 - Daily/monthly exchange limits to maintain platform economic stability
-- Implementation of a dynamic exchange rate mechanism, adjusting based on supply and demand
 - Small transaction fees may be charged for exchanges, used for platform operations and ecosystem development
 
 ### 4.6 📈 Sustainability Strategy
-- Dynamic adjustment of token distribution ratios
-- Liquidity management, including exchange mechanisms between GIFT and KAIA
 - Regular buyback and burning mechanisms to control token circulation
 - Continuous optimization of platform features to increase token utility
-- Establishment of robust governance mechanisms to ensure long-term health of the token economy
 - Collaboration with other projects in the KAIA ecosystem to expand GIFT token applications
 
 ### 4.7 🎨 GIFT Token Usage Mechanism
@@ -84,26 +80,6 @@ LINE Sticker Gift is an innovative decentralized application (Dapp) designed to 
   - Maintains a transparent market mechanism
 
 This mechanism aims to create a free, open, and market-driven sticker trading ecosystem, giving users maximum decision-making power and flexibility.
-
-## 5. 👥 User Experience
-
-### 5.1 🌠 Sticker Wishlist System
-- Users can create wishes for desired stickers using GIFT tokens
-- Community-driven sticker wish fulfillment mechanism
-
-### 5.2 🔄 Sticker Creation Incentive Mechanism
-- Use GIFT tokens to incentivize sticker creators to fulfill user wishes
-- Secure, KAIA blockchain-based reward distribution
-
-### 5.3 🔗 Integration with LINE
-- Seamless access to LINE sticker library
-- Easy sharing of wishes and newly acquired stickers in LINE chats
-
-### 5.4 🔄 User Operation Flow
-
-# 🎁 LINE Sticker Gift: KAIA wave Proposal
-
-[前面的部分保持不變，從用戶體驗部分開始更新]
 
 ## 5. 👥 User Experience
 
