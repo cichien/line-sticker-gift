@@ -100,6 +100,7 @@ This mechanism aims to create a free, open, and market-driven sticker trading ec
 Our platform supports two primary user roles: Wishers and Givers. Each role has a distinct operational flow:
 
 #### Wisher Flow:
+![Untitled diagram-2024-09-09-022918](https://github.com/user-attachments/assets/d554f4ee-17f7-47d8-bfc2-4d0b8ee8bade)
 
 1. **Platform Login**: User logs into the platform
 2. **Acquire GIFT Tokens**: Obtain GIFT tokens through various means
